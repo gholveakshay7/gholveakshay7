@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate DevOps Engineer with  of experience in designing, implementing, and managing CI/CD pipelines. I have hands-on experience with tools like Git, Docker, Kubernetes, Jenkins, AWS, and Terraform.<br><br>I specialize in automation, cloud infrastructure, containerization, and monitoring solutions. My goal is to improve deployment speed, system reliability, and scalability through DevOps best practices.<br><br>I am always eager to learn new technologies and enhance infrastructure efficiency.
+I am a passionate 🚀DevOps Engineer with  of experience in designing, implementing, and managing CI/CD pipelines. I have hands-on experience with tools like Git, Docker, Kubernetes, Jenkins, AWS, and Terraform.<br><br>I specialize in automation, cloud infrastructure, containerization, and monitoring solutions. My goal is to improve deployment speed, system reliability, and scalability through DevOps best practices.<br><br>I am always eager to learn new technologies and enhance infrastructure efficiency.
 
 
 ## 🌐 Socials:
